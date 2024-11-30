@@ -4,6 +4,6 @@
       "layer0": "item/saddle"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/xp_pack" }
+        { "predicate": { "custom_model_data": 1001 }, "model": "server_item/xp_pack" }
     ]
   }

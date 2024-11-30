@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/command_block_minecart"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1001 }, "model": "server_item/item_clone" }
+  ]
+}
